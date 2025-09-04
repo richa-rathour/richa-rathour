@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Richa Singh  
+💻 Full-Stack Developer | React | Next.js | Node.js | Python  
 
-<!--
-**richa-rathour/richa-rathour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 7.5+ years of experience building scalable web apps & APIs  
+🔹 Expertise in **React, Next.js, Angular, Node.js, TypeScript, Python, Java**  
+🔹 Worked on **real-time dashboards, BI migrations, secure authentication, and AI-powered apps**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack  
+- **Frontend:** React, Next.js, Angular, TypeScript  
+- **Backend:** Node.js, Express.js, Spring Boot, PHP, Java  
+- **Databases:** MongoDB, MySQL, PostgreSQL, MSSQL  
+- **Others:** RabbitMQ, REST APIs, OAuth 2.0, Git, Docker  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=richa-rathour&show_icons=true&theme=radical)  
+
+---
+
+## 📫 How to Reach Me  
+📧 Email: rrichasingh84@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/your-link)  
